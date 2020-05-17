@@ -12,3 +12,9 @@ In this project, we will analyze demographics data for customers of a mail-order
 Python 3.7.3
 
 The libraries we will be using will be:
+
+imbalanced-learn==0.6.1
+numpy==1.18.1
+pandas==0.23.4
+scikit-learn==0.22.1
+seaborn==0.9.0
