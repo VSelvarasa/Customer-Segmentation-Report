@@ -28,6 +28,14 @@ We approach this project in 2 phases :
 * Use Supervised Learning to identify targets for marketing campaign of the mail-order company who could possibly become their customers.
 
 ## Results
+ Unsupervised Learning results:
+
+![Clusters](Clusters.png)
+
+Supervised Learning results:
+
+![Scores](predictions.png)
+
 The detailed analysis of the results can be read in this [Medium post](https://medium.com/@vally.selvarasa/create-a-customer-segmentation-report-65162985d907)
 
 ## Libraries
